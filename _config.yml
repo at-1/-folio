@@ -25,5 +25,7 @@ collections:
   poetry:
     output: true
     permalink: /poetry/:path/
-
+  studies:
+    output: true
+    permalink: /studies/:path/
 
