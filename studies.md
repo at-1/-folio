@@ -2,7 +2,7 @@
 layout: page
 permalink: /studies/
 title: studies
-description: Showcase your writing, short stories, or poems. Replace this text with your description.
+description: Showcase your writing, short stories, or poems.
 ---
 
 <ul class="post-list">
