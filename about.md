@@ -3,7 +3,7 @@ layout: page
 title: about
 permalink: /about/
 ---
-            <li><a href="https://at001.files.wordpress.com/2010/04/map2.jpg"><img alt="thumbnail" src="https://at001.files.wordpress.com/2010/04/map2.jpg"></a></li>
+            <li><a href="/img/prof_pic.jpg"><img alt="thumbnail" src="h/img/prof_pic.jpg"></a></li>
 <img class="col one right" src="/img/prof_pic.jpg">
 
 <br/>
@@ -22,7 +22,6 @@ Link to your social media connections, too. This theme is set up to use <a href=
 	<a href="http://tumblr.com" target="_blank"><i class="fa fa-tumblr-square"></i></a>
 	<a href="https://twitter.com" target="_blank"><i class="fa fa-twitter-square"></i></a>
 	<a href="https://plus.google.com" target="_blank"><i class="fab fa-google-plus-square"></i></a>
-	<a href="https://plus.google.com" target="_blank"><i class="fab fa-google-plus-g"></i></a>
 <i class="fab fa-google-plus-g"></i>
 </span>
 
