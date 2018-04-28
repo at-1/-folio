@@ -2,8 +2,7 @@
 layout: page
 title: about
 permalink: /about/
----
-            <li><a href="/img/prof_pic.jpg"><img alt="thumbnail" src="/img/prof_pic.jpg"></a></li>
+---<a href='https://drive.google.com/file/d/0B-SZ9F7Ox-wKRE1Dc1h0OFlRWUU/view?usp=sharing&amp;usp=embed_facebook&source=ctrlq.org'><img src='https://lh6.googleusercontent.com/42iKLfdqv5qiM5mND8I43d2Slbf-vm48nQVV1xxWk8k_3f0ldxp2Lw=w2400' /></a>
 <img class="col one right" src="/img/prof_pic.jpg">
 
 <br/>
