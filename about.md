@@ -21,7 +21,7 @@ Link to your social media connections, too. This theme is set up to use <a href=
 	<a href="https://www.linkedin.com" target="_blank"><i class="fa fa-linkedin-square"></i></a>
 	<a href="http://tumblr.com" target="_blank"><i class="fa fa-tumblr-square"></i></a>
 	<a href="https://twitter.com" target="_blank"><i class="fa fa-twitter-square"></i></a>
-	<a href="https://plus.google.com/105389290895639838068" target="_blank"><i class="fab fa-google-plus-g"></i></a>
+	<a href="https://plus.google.com/u/0/" target="_blank"><i class="fab fa-google-plus-g"></i></a>
 </span>
 
 <div class="col three caption">
