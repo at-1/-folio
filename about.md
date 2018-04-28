@@ -2,7 +2,7 @@
 layout: page
 title: about
 permalink: /about/
----<a href='https://drive.google.com/file/d/0B-SZ9F7Ox-wKRE1Dc1h0OFlRWUU/view?usp=sharing&amp;usp=embed_facebook&source=ctrlq.org'><img src='https://lh6.googleusercontent.com/42iKLfdqv5qiM5mND8I43d2Slbf-vm48nQVV1xxWk8k_3f0ldxp2Lw=w2400' /></a>
+
 <img class="col one right" src="/img/prof_pic.jpg">
 
 <br/>
@@ -10,7 +10,7 @@ Write your biography here. Tell the world about yourself. Link to your favorite 
 
 Link to your social media connections, too. This theme is set up to use <a href="http://fortawesome.github.io/Font-Awesome/" target="blank">Font Awesome icons</a>, like the ones below. Add your facebook, twitter, linkedin, or just disable all of them. 
 
-
+---<a href='https://drive.google.com/file/d/0B-SZ9F7Ox-wKRE1Dc1h0OFlRWUU/view?usp=sharing&amp;usp=embed_facebook&source=ctrlq.org'><img src='https://lh6.googleusercontent.com/42iKLfdqv5qiM5mND8I43d2Slbf-vm48nQVV1xxWk8k_3f0ldxp2Lw=w2400' /></a>
 <br/>
 <hr/>
 <br/>
