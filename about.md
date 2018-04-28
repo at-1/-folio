@@ -3,7 +3,7 @@ layout: page
 title: about
 permalink: /about/
 ---
-            <li><a href="/img/prof_pic.jpg"><img alt="thumbnail" src="h/img/prof_pic.jpg"></a></li>
+            <li><a href="/img/prof_pic.jpg"><img alt="thumbnail" src="/img/prof_pic.jpg"></a></li>
 <img class="col one right" src="/img/prof_pic.jpg">
 
 <br/>
