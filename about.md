@@ -3,7 +3,7 @@ layout: page
 title: about
 permalink: /about/
 ---
-
+            <li><a href="https://at001.files.wordpress.com/2010/04/map2.jpg"><img alt="thumbnail" src="https://at001.files.wordpress.com/2010/04/map2.jpg"></a></li>
 <img class="col one right" src="/img/prof_pic.jpg">
 
 <br/>
