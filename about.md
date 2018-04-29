@@ -16,7 +16,7 @@ Write your biography here. Tell the world about yourself. Link to your favorite 
 
 Link to your social media connections, too. This theme is set up to use <a href="http://fortawesome.github.io/Font-Awesome/" target="blank">Font Awesome icons</a>, like the ones below. Add your facebook, twitter, linkedin, or just disable all of them. 
 
-<a href="link url"><img src="https://dl.dropboxusercontent.com/s/67tq0xjx1b4ku90/Tabula%20Peutingeriana.jpg?dl=0 width="200" height="110" alt="">
+<a href="link url"><img src="https://dl.dropboxusercontent.com/s/67tq0xjx1b4ku90/Tabula%20Peutingeriana.jpg?dl=0" width="200" height="110" alt="">
 <a href="link url"><img src="https://dl.dropboxusercontent.com/s/h05ujykfg4vgyac/epir.jpg?dl=0" width="200" height="110" alt="">
 
 <br/>
