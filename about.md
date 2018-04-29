@@ -10,8 +10,9 @@ permalink: /about/
 <br/>
 
 <img class="col one right" src="/img/prof_pic.jpg">
-</div>
+
 <a href="link url"><img src="https://dl.dropboxusercontent.com/s/h05ujykfg4vgyac/epir.jpg?dl=0" width="200" height="110" alt="">
+</div>
 Write your biography here. Tell the world about yourself. Link to your favorite <a href="http://reddit.com" target="blank">subreddit</a>. You can put a picture in, too. The code is already in, just name your picture "prof_pic.jpg" and put it in the img folder. Testing!
 
 
