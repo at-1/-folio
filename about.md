@@ -38,6 +38,8 @@ Link to your social media connections, too. This theme is set up to use <a href=
 	<a href="#"><i class="fa fa-instagram"></i></a>
 	<a href="mailto:you@example.com"><i class="fa fa-envelope-square"></i></a>
 	<a href="#"><i class="fa fa-flickr"></i></a>
+	<a href="https://plus.google.com/share?url=http%3A%2F%2Finsight-ie.appspot.com%2F" target="_blank" title="Share on Google+">
+      <img src="images/google+.png" alt="Google+">
 </span>
 
 <div class="col three caption">
