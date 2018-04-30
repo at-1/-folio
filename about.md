@@ -30,15 +30,15 @@ Link to your social media connections, too. This theme is set up to use <a href=
 <hr/>
 <br/>
 <span class="contacticon center">
-	<a href="mailto:you@example.com"><i class="fa fa-envelope-square"></i></a>
+	<a href="https://plus.google.com"><i class="fa fa-google-plus"></i></a>
 	<a href="https://github.com" target="_blank"><i class="fa fa-github-square"></i></a>
 	<a href="https://www.linkedin.com" target="_blank"><i class="fa fa-linkedin-square"></i></a>
 	<a href="http://tumblr.com" target="_blank"><i class="fa fa-tumblr-square"></i></a>
 	<a href="https://twitter.com" target="_blank"><i class="fa fa-twitter-square"></i></a>
-	<a href="https://plus.google.com"><i class="fa fa-google-plus"></i></a>
 	<a href="#"><i class="fa fa-instagram"></i></a>
 	<a href="#"><i class="fa fa-flickr"></i></a>               
         <a href="#"><i class="fa fa-skype"></i></a>
+	<a href="mailto:you@example.com"><i class="fa fa-envelope-square"></i></a>
 </span>
 
 <div class="col three caption">
