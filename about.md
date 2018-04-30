@@ -22,6 +22,23 @@ Link to your social media connections, too. This theme is set up to use <a href=
 <a href="link url"><img src="https://dl.dropboxusercontent.com/s/h05ujykfg4vgyac/epir.jpg?dl=0" width="200" height="110" alt="">
 
 <br/>
+
+      	<div class="twelve columns">	
+				<ul class="social-links">
+               <li><a href="#"><i class="fa fa-facebook"></i></a></li>
+               <li><a href="#"><i class="fa fa-twitter"></i></a></li>
+               <li><a href="#"><i class="fa fa-google-plus"></i></a></li>               
+               <li><a href="#"><i class="fa fa-github-square"></i></a></li>
+               <li><a href="#"><i class="fa fa-instagram"></i></a></li>
+               <li><a href="#"><i class="fa fa-flickr"></i></a></li>               
+               <li><a href="#"><i class="fa fa-skype"></i></a></li>
+            </ul>			
+      	</div>
+
+
+
+
+
 <hr/>
 <br/>
 <span class="contacticon center">
