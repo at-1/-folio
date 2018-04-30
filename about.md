@@ -30,7 +30,7 @@ Link to your social media connections, too. This theme is set up to use <a href=
 <hr/>
 <br/>
 <span class="contacticon center">
-<a href="https://plus.google.com"><i class="fa fa-google+"></i></a>
+<a href="https://plus.google.com"><i class="fa fa-google-plus-square"></i></a>
 	<a href="https://plus.google.com"><i class="fa fa-google-plus"></i></a>
 	<a href="https://github.com" target="_blank"><i class="fa fa-github-square"></i></a>
 	<a href="https://www.linkedin.com" target="_blank"><i class="fa fa-linkedin-square"></i></a>
