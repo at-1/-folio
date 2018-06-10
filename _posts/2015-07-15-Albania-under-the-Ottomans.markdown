@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Albania under Ottomans
+title: Albania under the Ottomans
 published: true
 ---
 
