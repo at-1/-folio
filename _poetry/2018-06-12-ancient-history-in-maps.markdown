@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Soliloquy Of The Solipsist
-date: 2015-07-06 07:59:00
+title: Ancient history in maps
+date: 2018-06-12 10:37:00
 ---
 <h5 style="color:green">Ancient history in maps</h5>
 <marquee scrollamount="3"><a href="https://dl.dropbox.com/s/1kqy9djikx10ffn/latebronze.png?dl=0/s/1kqy9djikx10ffn/latebronze.png?dl=0"><img src="https://dl.dropbox.com/s/1kqy9djikx10ffn/latebronze.png?dl=0/s/1kqy9djikx10ffn/latebronze.png?dl=0" width="200" height="110" alt="">
