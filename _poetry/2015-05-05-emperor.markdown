@@ -37,7 +37,7 @@ Slow-carb four dollar toast Helvetica pop-up. Kale chips next level literally tr
 	<img class="col one" src="{{ site.baseurl }}/img/11.jpg">
 	<img class="col one" src="{{ site.baseurl }}/img/12.jpg">
 	<img class="col one" src="{{ site.baseurl }}/img/7.jpg">
-</div>
+
 
 
 
