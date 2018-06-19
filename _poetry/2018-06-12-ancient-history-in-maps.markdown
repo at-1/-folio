@@ -19,4 +19,4 @@ date: 2018-06-12 10:37:00
 <img src="https://lh4.googleusercontent.com/nHt9Fz5WxtdZ_FStuokK_feermexCviRTQdIg5Ix8SfnRXje4O3-9g=w2400" width="200" height="110” alt="">
 <a href="https://iem5.files.wordpress.com/2016/04/31a0c-25202-01.jpg"><img src="https://iem5.files.wordpress.com/2016/04/31a0c-25202-01.jpg" width="200" height="110”" alt="">
 <a href="https://iem5.files.wordpress.com/2016/05/fra-mauro.png"><img src="https://iem5.files.wordpress.com/2016/05/fra-mauro.png" width="200" height="110”" alt="">
-<a href='https://drive.google.com/file/d/0B-SZ9F7Ox-wKeDdpNGlCd2F4Qlk/view?usp=sharing&amp;usp=embed_facebook&source=ctrlq.org'><img src='https://lh3.googleusercontent.com/J6jvqfmpMxsaKRLHwvt6xh0-sqUrR38v_KqrAa0KmfVa0ODpHn2Y8w=w2400' /></a>
+<a href='https://drive.google.com/file/d/0B-SZ9F7Ox-wKeDdpNGlCd2F4Qlk/view?usp=sharing&amp;usp=embed_facebook&source=ctrlq.org'><img src='https://lh3.googleusercontent.com/J6jvqfmpMxsaKRLHwvt6xh0-sqUrR38v_KqrAa0KmfVa0ODpHn2Y8w=w2400' width="200" height="110” /></a>
