@@ -26,4 +26,4 @@ date: 2018-06-12 10:37:00
 
 <a href="https://iem5.files.wordpress.com/2016/04/31a0c-25202-01.jpg"><img src="https://iem5.files.wordpress.com/2016/04/31a0c-25202-01.jpg" width="200" height="110”" alt="">
 
-<a href="https://iem5.files.wordpress.com/2016/05/fra-mauro.png"><img src="https://iem5.files.wordpress.com/2016/05/fra-mauro.png" width="200" height="110”" alt=""></a></marquee>
+<a href="https://iem5.files.wordpress.com/2016/05/fra-mauro.png"><img src="https://iem5.files.wordpress.com/2016/05/fra-mauro.png" width="200" height="110”" alt="">
