@@ -12,8 +12,7 @@ date: 2018-06-12 10:37:00
 
 <a href="link url"><img src="https://dl.dropboxusercontent.com/s/67tq0xjx1b4ku90/Tabula%20Peutingeriana.jpg?raw=1" width="200" height="110" alt="">
 
-<a href="https://lh3.googleusercontent.com/J6jvqfmpMxsaKRLHwvt6xh0-sqUrR38v_KqrAa0KmfVa0ODpHn2Y8w=w2400">
-<img src="https://lh3.googleusercontent.com/J6jvqfmpMxsaKRLHwvt6xh0-sqUrR38v_KqrAa0KmfVa0ODpHn2Y8w=w2400" width="200" height="110” alt="">
+<a href="https://lh3.googleusercontent.com/J6jvqfmpMxsaKRLHwvt6xh0-sqUrR38v_KqrAa0KmfVa0ODpHn2Y8w=w2400"> width="200" height="110” alt="">
   
 <a href="https://lh3.googleusercontent.com/phzopoR8nMWMVBENjEBPyjjHg8zs_URJvt1xIafubL9gxUab8puEVw=w2400">
 <img src="https://lh3.googleusercontent.com/phzopoR8nMWMVBENjEBPyjjHg8zs_URJvt1xIafubL9gxUab8puEVw=w2400" width="200" height="110” alt="">
