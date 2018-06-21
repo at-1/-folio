@@ -19,7 +19,7 @@ date: 2015-08-06 07:59:00
   
 <p>Greek letters have been used by Anas-tasio Kulurioti (Athens, 1866), by Salterio (Constantinople, 1868), and in the Alfabeto generale Aloano-Epirotico (Leghorn, 1869), which last is also contained in A Dora d'Istria gli Albanesi (Leghorn, 1870). An Albanian grammar has been lately published at Leghorn (Grammatologia Albanese). Prince Louis Lucien Bonaparte's version of the parable of the sower in Matthew has been published under his auspices in the Siculo-Albanese, the Ca-lapro-Albanese, and the Scutari-Albanese dialects (London, 1868-70). Albanian literature consists chiefly of popular songs and fairy tales. The late Austrian consul at Syra, Mr. de Hahm, is a high authority on the subject in his Alba-nesische Studien (Jena, 1854), and Griechisch-Albanesische Marchen (2 vols., Leipsic, 1864). Dora d'Istria, the author of the "Mussulman and Roumanian Albanians," has in other recent publications thrown much light upon the Albanian language and poetry.(This section is from "The American Cyclopaedia”)
 by George Ripley And Charles A. Dana. Also available from Amazon: The New American Cyclopædia. 16 volumes complete..)</p>
-</div>
+<hr>
 ---
 layout: post
 title: Description of the Land of the Eagle
