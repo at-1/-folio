@@ -29,6 +29,6 @@ collections:
     
   studies:
     output: true
-    permalink: /poem/:path/
+    permalink: /studies/:path/
 
 
