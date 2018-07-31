@@ -23,10 +23,12 @@ collections:
     output: true
     permalink: /portfolio/:path/
     
-
+  poem:
+    output: true
+    permalink: /studies/:path/
     
   studies:
     output: true
-    permalink: /studies/:path/
+    permalink: /poem/:path/
 
 
