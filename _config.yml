@@ -23,9 +23,9 @@ collections:
     output: true
     permalink: /portfolio/:path/
     
-  poems:
+  poetry:
     output: true
-    permalink: /poems/:path/
+    permalink: /poetry/:path/
     
   studies:
     output: true
